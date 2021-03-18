@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Meetup//RemoteApi//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://www.meetup.com/rladies-nairobi/events/277007519/ic
+ al/Introduction+to+Package+Development+in+R.ics
+X-WR-CALNAME:Events - Introduction to Package Development in R.ics
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VTIMEZONE
+TZID:Africa/Nairobi
+TZURL:http://tzurl.org/zoneinfo-outlook/Africa/Nairobi
+X-LIC-LOCATION:Africa/Nairobi
+BEGIN:STANDARD
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:EAT
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20210318T115318Z
+DTSTART;TZID=Africa/Nairobi:20210410T110000
+DTEND;TZID=Africa/Nairobi:20210410T130000
+STATUS:CONFIRMED
+SUMMARY:Introduction to Package Development in R
+DESCRIPTION:R-Ladies Nairobi\nSaturday\, April 10 at 11:00 AM\n\nJoin us 
+ on Saturday\, 10th April\, 11:00 a.m. - 1:00 p.m. GMT+3 as we go through
+  "Introduction to Package Development". Our trainer: Shelmith Kariuki\, 
+ D...\n\nhttps://www.meetup.com/rladies-nairobi/events/277007519/
+CLASS:PUBLIC
+CREATED:20210318T113724Z
+GEO:-1.28;36.81
+LOCATION:Online event
+URL:https://www.meetup.com/rladies-nairobi/events/277007519/
+LAST-MODIFIED:20210318T114236Z
+UID:event_277007519@meetup.com
+END:VEVENT
+END:VCALENDAR
